@@ -1,0 +1,8 @@
+{
+  "short_name": "google_books_react_search",
+  "name": "google_books_react_search",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

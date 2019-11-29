@@ -1,0 +1,12 @@
+    .btn-container {
+    float: right;
+  }
+  
+  @media (max-width: 768px) {
+    .btn-container {
+      margin-top: 25px;
+      margin-bottom: 25px;
+      margin-right: 25px;
+      margin-left: 25px;
+    }
+  }
